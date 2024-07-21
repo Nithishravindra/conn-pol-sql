@@ -1,0 +1,7 @@
+# Ignore the entire vendor directory
+vendor/
+
+# Ignore all .idea files and directories
+.idea/
+
+build/
